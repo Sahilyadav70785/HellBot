@@ -65,7 +65,7 @@
 
 - Clone the repo. 
 
-`git clone https://github.com/The-HellBot/Plugins.git`
+`git clone https://github.com/Sahilyadav70785/Plugins.git`
 - Open Cloned Folder.
 
 `cd Plugins`
